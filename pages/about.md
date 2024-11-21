@@ -18,7 +18,16 @@ This is a brief description of the podcast episode - perhaps an introduction, te
 
 ## Transcript
 
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
+Chelsea:
+Can you begin with introducing yourself and your association to the St. Lawrence Hall?
+Chris:
+(0:06) Yeah, so I'm Chris Bateman. I'm the manager of the plaques program at Heritage Toronto. And Heritage Toronto is a tenant in St. Lawrence Hall.
+
+We've been in this building, I believe, about a decade now. So I think we're one of the longest running heritage organizations to be in here. And really, my connection to this space is just having worked in it every day for a decade, at least up until the pandemic. (0:33)
+
+And I'm here twice a week. So I know the space quite well. I wrote the plaque outside that talks about some of the history.
+
+(0:42) So I've had a chance to do a dive into that myself. And I don't know, my interest as a historian has come across this building as well. So I wrote a piece for spacing a few years ago now, just sort of trying to get to the bottom of my own curiosity about what this building is and all the different things that have happened in it.
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
