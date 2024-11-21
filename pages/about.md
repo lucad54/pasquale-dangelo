@@ -15,7 +15,6 @@ credits: false
 ## Description
 
 
-
 ## Transcript
 
 Chelsea: Can you begin with introducing yourself and your association to the St. Lawrence Hall?
