@@ -10,7 +10,12 @@ credits: false
 
 {% include feature/jumbotron.html objectid="ross01" %}
 
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Works;Analysis;References" %}
+
+## Works
+
+This is a brief intro of the podcast episode - perhaps an introduction, teaser, or abstract.
+
 
 ## Analysis
 
