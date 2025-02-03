@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
+Pascal D’Angelo (1894-1932) was one of most influential figures in early 20th-century American literature. Giving voice to Italian immigrants and labourers alike through his poetry work. His normal life allows for a window into the broader experiences of the people apart from the mass immigration from Italy to America. Seeking to balance their traditional culture while facing new socio-economic challenges in industrial America. We follow D’Angelo’s journey from the mountains and pastoral landscapes of Introdracqua, Italy, to his promised new and grueling life in the labour of New York, United States. His life captures the resilience, tradition and determination of a community that helped build and shape American culture and history. 
 
 ## Transcript
 
