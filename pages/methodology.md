@@ -21,12 +21,14 @@ Research has mainly involved reading D'Angelo's writings against the backdrop of
 Archival study has been important in rediscovering his work's reception, especially through literary reviews and correspondence between him and prominent figures like Carl Van Doren. Moreover, Italian-language based publication served to give a stronger cultural hold to immigrants, especially through Italian Newspapers found spread throughout America.
 
 
-{% include feature/image.html objectid="pascal10" %}
+{% include feature/image.html objectid="pascal09" %}
 
 
 ## Future Reseach
 
 In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters and even oral histories missing from this exhibit. All allowing for a deeper understanding behind D’Angelo, his life and his works, and cultural contexts. Some broader future research may include a more in-depth study on Italian-language and labour newspapers like “L'Adunata dei Refrattari”, which may shed light on how much revolutionary labour movements influenced D'Angelo and his associates. Also, focusing more on the period later on in his life (and during his eventual death), the Great Depression and how even more significant economic and labour struggle impacted the lives and works of these immigrant-labour poets.
+
+{% include feature/image.html objectid="pascal10" %}
 
 Overall, by connecting literary criticism to historical inquiry, this project will reveal the role of poetry as a force of cultural and labour resistance within immigrant communities. With hopes to further revive interest in the voices of Italian-American workers whose creative labours have been silenced for so long by prevailing narratives.
 
