@@ -10,9 +10,9 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pascal06" %}
 
-{% include feature/nav-menu.html sections="What's Done;Future Research;References" %}
+{% include feature/nav-menu.html sections="What's Been Done;Future Research;References" %}
 
-## What's Done
+## What's Been Done
 
 With archival research and online resources, this project aims to place D'Angelo's writings within the wider narrative of Italian-American literature, immigration and labour of the early 20th century. Future plans to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates 
 
@@ -24,7 +24,7 @@ Archival study has been important in rediscovering his work's reception, especia
 {% include feature/image.html objectid="pascal10" %}
 
 
-## Future
+## Future Reseach
 
 In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters and even oral histories missing from this exhibit. All allowing for a deeper understanding behind D’Angelo, his life and his works, and cultural contexts. Some broader future research may include a more in-depth study on Italian-language and labour newspapers like “L'Adunata dei Refrattari”, which may shed light on how much revolutionary labour movements influenced D'Angelo and his associates. Also, focusing more on the period later on in his life (and during his eventual death), the Great Depression and how even more significant economic and labour struggle impacted the lives and works of these immigrant-labour poets.
 
