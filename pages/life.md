@@ -17,7 +17,6 @@ credits: false
 Born in the small village of Introdacqua, found confined in the mountains of the region Abruzzo, D’Angelo grew up facing the socio-economic struggles of southern Italy. Introdacqua displays the conditions many faced in the South as the North was becoming more and more industrialized. Poverty grew and many held onto traditional practices of subsistence farming. This setting instilled an appreciation of nature, a feature that was later on evidently carried into D’Angelo’s poetry.
 
 {% include feature/image.html objectid="pascal03" %}
-An image of the home Pascal D'Angelo grew up in. Introdacqua, Abruzzo.
 
 By 16, with his father, Pascal D’Angelo emigrated to the United states. Driven by the economic desperation he faced his whole life in Italy and the fascination of the New World of America. Coming during this period of the early 20th century he was like many southern Italian immigrants and a part of a great wave of mass migration pushed by the industrialization opportunity and the decline of the traditional agrarian practices in Italy. His journey proved to be a turning point in his life, as D’Angelo moved away from the simplicity of mountain life to facing the unforgiving demands of industrial labour. His autobiography, Son of Italy, follows this transition in his life, illustrating through words the psychological and physical toll that had come from leaving his homeland (D'Angelo, Son of Italy, pp. 13–16).
 
