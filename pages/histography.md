@@ -14,11 +14,13 @@ credits: false
 
 ## Histography
 
-With archival research and online resources, this project aims to place D'Angelo's writings within the wider narrative of Italian-American literature, immigration and labour of the early 20th century. Future plans to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates 
+Italian-American immigration history is full of rich and interconnected stories of struggle, adaptation, and creativity. An important part that keeps these stories alive is poetry. Italian-American labourers used poetry to express their experiences while facing a new life in America. This essay looks at how Italian-American immigrants shaped their lives with cultural and economic resilience through the poetic practices and works of Pascal D’Angelo, one of the most remembered voices in this tradition.
 
-Research has mainly involved reading D'Angelo's writings against the backdrop of the Italian-American working-class experience, analysing how this poetry was used as a tool of resistance and cultural expression. I have learned from D’Angelo’s works about the recurring themes of resilience, displacement, and artistic yearning. Using municipal documents, union trends, and newspapers, like The Brooklyn Eagle, to put his poetry into context. All these documents point to a main defining characteristic of the time, the struggle immigrants faced both in work that was brutal and in society that wanted assimilation.
+For some context, Italian immigration to the United States during the late 19th and early 20th centuries was fueled by economic and social hardships for southern Italians. The small village of Pascal D’Angelo, Introdacqua, found within the mountainous region of Abruzzo, was especially faced with poverty and lacked jobs (Mattalia et al., 2021). The South’s practice of subsistence farming, which was its only means of economic and health support, was destroyed as they were left behind during the rapid industrialization in North Italy. The only option remaining for many in the South was to emigrate for a better future for themselves and their families (Cannato, 2021).
 
-Archival study has been important in rediscovering his work's reception, especially through literary reviews and correspondence between him and prominent figures like Carl Van Doren. Moreover, Italian-language based publication served to give a stronger cultural hold to immigrants, especially through Italian Newspapers found spread throughout America.
+Historians give a clear understanding of these communities in the South where mass migration took place, whether it was because they were facing economic struggle or just for the dream of the Land of Promise. This emigration of rural Italian peasants would be the foundation of strong continuing traditions, oral and written storytelling, and folk songs of Italian-Americans all while they navigated new struggles within a new country (Baily, 2016).
+
+As Italian immigrants arrived in American cities like New York, they again found themselves at the lowest levels of the economic ladder. Many did find work; however, conditions were backbreaking. Grabbing any job they could find, from construction to street cleaning to factory work, they struggled to make a living. In spite of such hardships and dangerous work conditions, Italian immigrants still held on to each other as they did back home. They formed close-knit communities that preserved their sense of culture, using social clubs, festivals, and labour unions as places where Italian traditions could live on and create new communities (Cannato, 2015).
 
 
 {% include feature/image.html objectid="pascal10" %}
@@ -26,17 +28,42 @@ Archival study has been important in rediscovering his work's reception, especia
 
 ### Radicalism
 
-In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters and even oral histories missing from this exhibit. All allowing for a deeper understanding behind D’Angelo, his life and his works, and cultural contexts. Some broader future research may include a more in-depth study on Italian-language and labour newspapers like “L'Adunata dei Refrattari”, which may shed light on how much revolutionary labour movements influenced D'Angelo and his associates. Also, focusing more on the period later on in his life (and during his eventual death), the Great Depression and how even more significant economic and labour struggle impacted the lives and works of these immigrant-labour poets.
+In relation to labour poetry, these communities also formed the base for early stages of labour activism. Marcella Bencivenni (2011) documents how Italian-American workers, through their struggles, organized to improve working conditions and wages with broader leftist movements. Although not quickly successful, this activism confronted the economic injustice that these people faced in both Italy and the United States, allowing a space for cultural expression. Thus, poetry became an important practice of expression among workers and readers of newspapers, connecting their experiences as workers in the United States to their yearning for a life back in Italy.
 
-Overall, by connecting literary criticism to historical inquiry, this project will reveal the role of poetry as a force of cultural and labour resistance within immigrant communities. With hopes to further revive interest in the voices of Italian-American workers whose creative labours have been silenced for so long by prevailing narratives.
+Thus, labour poetry rises into a cultural artifact for the Italian-American immigrant community. The poems usually displayed and combined themes of struggle, identity, and resilience. For many, poetry continued their practices of oral traditions while also providing this community with a means of asserting their presence within a society that brutally marginalized them (Sartarelli & D’Acierno, 1999).
 
+It was more than just an artistic expression but a mode of resistance. These poets were labourers who used words as weapons to shatter stereotypes, asserting their dignity as human beings. In this era, when Italian immigrants were widely labeled as “WOPs” (Without Papers) and only seen as good for doing backbreaking labour, poetry provided the fuel to revive the lost pride and to celebrate the roots of Italian-Americans (Deschamps, 2015).
+
+The work of Italian-American poets was flowing, simple yet evocative, and created in English and/or Italian, making their works accessible to immigrant and American audiences. Therefore, their poetry acted as a double-sided blade: reminding Italian immigrants who they were while also revealing the struggles they faced as they adjusted to their new lives in American society (Sartarelli & D’Acierno, 1999). Giorgio Bertellini (2005) illustrates the creative practices and expressions connected to identity, providing Italian-Americans a means to navigate the cultural and racial ideologies of America.
+
+### Pascal D'Angelo
+
+More specifically is the lasting icon Pascal D’Angelo, one of the “founding fathers” of Italian-American labourer poetry. From a poor village in Abruzzo to the streets of New York, his life journey symbolizes the resilience and creativity of Italian immigrants. D’Angelo, even though he is one out of thousands of poets, holds the ability to captures the stories of immigrants who held onto cultural pride as they struggled amidst hope for a new life. One of his strengths was his ability to articulate the universality and complexity of immigrant life without generalizing or forgetting the identity he held as an Italian-American labourer. His work displays the greater struggle of the Italian-American community: making a new life while keeping themselves from losing their roots (Alfonsi, 1989).
+
+Yet the poetry of Italian-American labourers was more than the individual achievements, such as those of D’Angelo. It created and represented a voice of a group that shed light on the cultural and social challenges faced within Italian-immigrant communities. As Ferdinando Alfonsi (1989) reveals in his Dictionary of Italian-American Poets, there are over hundreds of these poets, each fighting for and offering their perspective on the American Dream.
+
+These poems display and, in a way, document the lives of these labourers in a way that no traditional historical record could. Letting readers experience and learn from the emotions, aspirations, and struggles of this marginalized group, they offer a new perspective of American history. They also preserve dialects, local Italian traditions, and personal memories, leaving an indelible mark on the cultural landscape (The Lasting Impact of Italian Immigration on American Culture, 2024).
+
+Italian-American immigration is a story of resilience, adaptation, and creativity. Immigrants such as Pascal D'Angelo worked through the trials of their new world, maintaining the richness of their heritage by way of hard work and poetry. The poetic output testifies with poignancy to art's function of crystallizing cultural identity and encouraging group solidarity.
+
+It is within the poetry of Italian-American labourers that historians gain a window into the role and complexity of immigration, labour, and tradition. The poems are not relics but living history of the indomitable human spirit and how art reveals the complex world of immigrants. It is a legacy from Pascal D'Angelo and his generation, continuing to inspire and shape thinking on cultural resilience and the power of words.
 
 
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+Alfonsi, Ferdinando P. *Dictionary of Italian American Poets*. 1st ed. New York: Peter Lang Publishing Inc., 1989.
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+Baily, Samuel L. *Immigrants in the Lands of Promise: Italians in Buenos Aires and New York City, 1870-1914.* Ithaca, NY: Cornell University Press, 2016. https://doi.org/10.7591/9781501705021.
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+Bencivenni, Marcella. *Italian Immigrant Radical Culture: The Idealism of the Sovversivi in the United States, 1890-1940.* New York: New York University Press, 2011. https://doi.org/10.18574/nyu/9780814791035.001.0001.
+
+Bertellini, Giorgio. "Duce/Divo: Masculinity, Racial Identity, and Politics among Italian Americans in 1920s New York City." *Journal of Urban History* 31, no. 5 (July 1, 2005): 685–726. https://doi.org/10.1177/0096144205275981.
+
+Deschamps, B. "‘The Cornerstone is Laid’: Italian American Memorial Building in New York City and Immigrants’ Right to the City at the Turn of the Twentieth Century." *European Journal of American Studies* 10, no. 3 (2015). https://doi.org/10.4000/ejas.11299.
+
+Mattalia, Giulia et al. "We Became Rich and We Lost Everything." *Human Ecology* 49, no. 2 (2021): 217–24. https://doi.org/10.1007/s10745-020-00209-6.
+
+Sartarelli, Stephen, and Pellegrino D’Acierno. *The Italian American Heritage*. New York: Routledge, 1999.
+
+Cannato, Vincent J. "What Sets Italian Americans Off from Other Immigrants?" *Humanities*, 2015.
