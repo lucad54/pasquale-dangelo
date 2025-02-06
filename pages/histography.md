@@ -23,14 +23,14 @@ Historians give a clear understanding of these communities in the South where ma
 As Italian immigrants arrived in American cities like New York, they again found themselves at the lowest levels of the economic ladder. Many did find work; however, conditions were backbreaking. Grabbing any job they could find, from construction to street cleaning to factory work, they struggled to make a living. In spite of such hardships and dangerous work conditions, Italian immigrants still held on to each other as they did back home. They formed close-knit communities that preserved their sense of culture, using social clubs, festivals, and labour unions as places where Italian traditions could live on and create new communities (Cannato, 2015).
 
 
-{% include feature/image.html objectid="pascal10" %}
-
-
 ### Radicalism
 
 In relation to labour poetry, these communities also formed the base for early stages of labour activism. Marcella Bencivenni (2011) documents how Italian-American workers, through their struggles, organized to improve working conditions and wages with broader leftist movements. Although not quickly successful, this activism confronted the economic injustice that these people faced in both Italy and the United States, allowing a space for cultural expression. Thus, poetry became an important practice of expression among workers and readers of newspapers, connecting their experiences as workers in the United States to their yearning for a life back in Italy.
 
 Thus, labour poetry rises into a cultural artifact for the Italian-American immigrant community. The poems usually displayed and combined themes of struggle, identity, and resilience. For many, poetry continued their practices of oral traditions while also providing this community with a means of asserting their presence within a society that brutally marginalized them (Sartarelli & D’Acierno, 1999).
+
+{% include feature/image.html objectid="pascal09" %}
+
 
 It was more than just an artistic expression but a mode of resistance. These poets were labourers who used words as weapons to shatter stereotypes, asserting their dignity as human beings. In this era, when Italian immigrants were widely labeled as “WOPs” (Without Papers) and only seen as good for doing backbreaking labour, poetry provided the fuel to revive the lost pride and to celebrate the roots of Italian-Americans (Deschamps, 2015).
 
@@ -41,6 +41,8 @@ The work of Italian-American poets was flowing, simple yet evocative, and create
 More specifically is the lasting icon Pascal D’Angelo, one of the “founding fathers” of Italian-American labourer poetry. From a poor village in Abruzzo to the streets of New York, his life journey symbolizes the resilience and creativity of Italian immigrants. D’Angelo, even though he is one out of thousands of poets, holds the ability to captures the stories of immigrants who held onto cultural pride as they struggled amidst hope for a new life. One of his strengths was his ability to articulate the universality and complexity of immigrant life without generalizing or forgetting the identity he held as an Italian-American labourer. His work displays the greater struggle of the Italian-American community: making a new life while keeping themselves from losing their roots (Alfonsi, 1989).
 
 Yet the poetry of Italian-American labourers was more than the individual achievements, such as those of D’Angelo. It created and represented a voice of a group that shed light on the cultural and social challenges faced within Italian-immigrant communities. As Ferdinando Alfonsi (1989) reveals in his Dictionary of Italian-American Poets, there are over hundreds of these poets, each fighting for and offering their perspective on the American Dream.
+
+{% include feature/image.html objectid="pascal04" %}
 
 These poems display and, in a way, document the lives of these labourers in a way that no traditional historical record could. Letting readers experience and learn from the emotions, aspirations, and struggles of this marginalized group, they offer a new perspective of American history. They also preserve dialects, local Italian traditions, and personal memories, leaving an indelible mark on the cultural landscape (The Lasting Impact of Italian Immigration on American Culture, 2024).
 
