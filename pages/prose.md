@@ -48,8 +48,9 @@ From the poignant poetry to his wrenching autobiography, the works of Pascal D'A
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+Barone, Dennis, Siân Gibby, and Nicholas Grosso, eds. VIA: Pascal D’Angelo. New York: Bordighera Press, 2021.
+     Newspapers mentioned (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest...
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+D’Angelo, Pascal. Son of Italy. New York: Macmillan, 1924.
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+
