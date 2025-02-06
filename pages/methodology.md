@@ -21,7 +21,7 @@ Research has mainly involved reading D'Angelo's writings against the backdrop of
 Archival study has been important in rediscovering his work's reception, especially through literary reviews and correspondence between him and prominent figures like Carl Van Doren. Moreover, Italian-language based publication served to give a stronger cultural hold to immigrants, especially through Italian Newspapers found spread throughout America.
 
 
-{% include feature/image.html objectid="pascal09" %}
+{% include feature/image.html objectid="pascal07" %}
 
 
 ## Future Reseach
