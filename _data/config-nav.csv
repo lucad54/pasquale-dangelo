@@ -1,12 +1,16 @@
 display_name,stub,dropdown_parent
 Home,/
-Life,/life.html
-Prose,/prose.html
-Histography,/histography.html
-Methodology,/methodology.html
-Media,/browse.html
+Pascal D'Angelo,,
+About,/about.html,Pascal D'Angelo
+Life,/life.html,Pascal D'Angelo
+Prose,/prose.html,Pascal D'Angelo
+Histography,/histography.html,Pascal D'Angelo
+Research,,
+Methodology,/methodology.html,Research
+Media,/browse.html,Research
+Timeline,/timeline.html,Research
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
-Timeline,/timeline.html
-About,/about.html
+
+
