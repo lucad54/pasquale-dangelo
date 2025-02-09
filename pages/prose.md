@@ -52,6 +52,6 @@ Barone, Dennis, Siân Gibby, and Nicholas Grosso, eds. *VIA: Pascal D’Angelo*.
 
 *Newspapers mentioned (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest*...
 
-D’Angelo, Pascal. Son of Italy. New York: Macmillan, 1924.
+D’Angelo, Pascal. *Son of Italy*. New York: Macmillan, 1924.
 
 
