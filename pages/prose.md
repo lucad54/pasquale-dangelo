@@ -49,7 +49,8 @@ From the poignant poetry to his wrenching autobiography, the works of Pascal D'A
 ## References
 
 Barone, Dennis, Siân Gibby, and Nicholas Grosso, eds. *VIA: Pascal D’Angelo*. New York: Bordighera Press, 2021.
-     *Newspapers mentioned (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest*...
+
+*Newspapers mentioned (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest*...
 
 D’Angelo, Pascal. Son of Italy. New York: Macmillan, 1924.
 
