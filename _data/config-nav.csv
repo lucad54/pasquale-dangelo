@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/
 About,,
+About,/about.html,About
 Life,/life.html,About
 Prose,/prose.html,About
-About,/about.html,About
 Histography,/histography.html,About
 Subjects,/subjects.html
 Locations,/locations.html
