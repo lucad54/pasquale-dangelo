@@ -42,7 +42,7 @@ More specifically is the lasting icon Pascal D’Angelo, one of the “founding 
 
 Yet the poetry of Italian-American labourers was more than the individual achievements, such as those of D’Angelo. It created and represented a voice of a group that shed light on the cultural and social challenges faced within Italian-immigrant communities. As Ferdinando Alfonsi (1989) reveals in his Dictionary of Italian-American Poets, there are over hundreds of these poets, each fighting for and offering their perspective on the American Dream.
 
-{% include feature/image.html objectid="pascal04" %}
+{% include feature/image.html objectid="pascal01" %}
 
 These poems display and, in a way, document the lives of these labourers in a way that no traditional historical record could. Letting readers experience and learn from the emotions, aspirations, and struggles of this marginalized group, they offer a new perspective of American history. They also preserve dialects, local Italian traditions, and personal memories, leaving an indelible mark on the cultural landscape (The Lasting Impact of Italian Immigration on American Culture, 2024).
 
