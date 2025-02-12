@@ -23,7 +23,7 @@ By examining D’Angelo’s life and work in the broader historical context and 
  
 
 ## Links
-The following links and resources:
+The following are some of the links and resources that made this website possible:
 
 1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
 2. The Dreamlife of Pascal D'Angelo [https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html](https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html)
