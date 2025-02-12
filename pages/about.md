@@ -10,9 +10,9 @@ credits: false
 
 {% include feature/jumbotron.html objectid="pascal06" %}
 
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Description;Links;Acknowledgments" %}
 
-## Description
+## Description 
 The early 20th century witnessed one of the largest waves of immigration to the United States of America. Between the late 19th and the early 20th century, over four million Italians arrived in America, abandoning economic instability, political repression, and regional disparity. However, as Italians arrived, they faced new narratives of hardship, labour, and assimilation. The story of these immigrants stresses the cultural resilience of the Italian immigrants themselves as political agents in social movements, community organizing, and the arts. Fighting to deconstruct the stereotype of the poor Italian immigrant who hardly struggled to live as a labourer; instead, Italian immigrants became leaders in American culture and construction.
 
 Yet, in this larger frame, the voice of Italian immigrants has often remained suppressed. Specifically, early 20th-century Italian-American writing, poetry most of all, was fighting to be heard throughout the country. The life and works of Pascal D’Angelo (1894-1932) provide a very rare example of a working-class immigrant becoming a published poet with recognition in the most elite American literary circles. His poetry and autobiography, *Son of Italy* (1924), voice the story of Italian immigrants who were silent for so long.
@@ -35,7 +35,7 @@ The following are some of the links and resources that made this website possibl
 The creator would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-- The D'Angelo Family
-- Pascal D'Angelo Groups
+- The D'Angelo/Persutti Family
+- Pascal D'Angelo Groups (Introdacqua)
 - [Professor David Koffman](https://profiles.laps.yorku.ca/profiles/koffman/)
 
