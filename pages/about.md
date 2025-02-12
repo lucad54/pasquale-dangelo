@@ -25,7 +25,7 @@ By examining D’Angelo’s life and work in the broader historical context and 
 ## Links
 The following are some of the links and resources that made this website possible:
 
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
+1. [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
 2. The Dreamlife of Pascal D'Angelo [https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html](https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html)
 3. Original Copy of Son of Italy [https://www.loc.gov/resource/gdcmassbookdig.pascaldangeloson00dang/?sp=1&st=list](https://www.loc.gov/resource/gdcmassbookdig.pascaldangeloson00dang/?sp=1&st=list)
 4. Pascal D'Angelo gruppo Introdacqua [https://www.facebook.com/profile.php?id=100063595269956](https://www.facebook.com/profile.php?id=100063595269956)
