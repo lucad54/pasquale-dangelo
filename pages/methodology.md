@@ -23,7 +23,7 @@ The archival study has been important in rediscovering his work's reception, esp
 {% include feature/image.html objectid="pascal07" %}
 
 
-## Future Reseach
+## Future Research
 
 In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters, and even oral histories missing from this exhibit. All allowing for a deeper understanding of D’Angelo’s life, his works, and his cultural contexts. 
 
