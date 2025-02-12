@@ -14,7 +14,7 @@ credits: false
 
 ## What's Been Done
 
-With archival research and online resources, this project aims to place D'Angelo's writings within the wider narrative of Italian-American literature, immigration, and labour of the early 20th century. Future plans to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates
+With archival research and online resources, this project aims to place D'Angelo's writings within the wider historical narrative of Italian-American literature, immigration, and labour of the early 20th century. Future plans to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates
 
 Research has mainly involved reading D'Angelo's writings against the backdrop of the Italian-American working-class experience, analyzing how this poetry was used as a tool of resistance and cultural expression. I have learned from D’Angelo’s works about the recurring themes of resilience, displacement, and artistic yearning. Using municipal documents, union trends, and newspapers, like The Brooklyn Eagle, to put his poetry into context. All these documents point to a main defining characteristic of the time, the struggle immigrants faced both in work that was brutal and in a society that wanted assimilation.
 
