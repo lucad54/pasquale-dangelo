@@ -1,6 +1,5 @@
 display_name,stub,dropdown_parent
 Home,/
-About,/about.html
 Pascal D'Angelo,,
 Life,/life.html,Pascal D'Angelo
 Poetry,/poetry-prose.html,Pascal D'Angelo
@@ -13,3 +12,4 @@ Other,,
 Subjects,/subjects.html,Other
 Locations,/locations.html,Other
 Map,/map.html,Other
+About,/about.html
