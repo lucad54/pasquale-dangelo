@@ -30,6 +30,8 @@ Research has mainly involved reading D'Angelo's writings against the backdrop of
 
 The archival study has been important in rediscovering his work's reception, especially through literary reviews and correspondence between him and prominent figures like Carl Van Doren. Moreover, Italian-language-based publications served to give a stronger cultural hold to immigrants, especially through Italian Newspapers found spread throughout America.
 
+{% include feature/image.html objectid="pascal07" %}
+
 ### Future Research
 In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters, and even oral histories missing from this exhibit. All allowing for a deeper understanding of D’Angelo’s life, his works, and his cultural contexts. 
 
