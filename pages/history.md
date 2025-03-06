@@ -1,7 +1,7 @@
 ---
-title: Histography
+title: Historical Context
 layout: about
-permalink: /histography.html
+permalink: /historical-context.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="Histography;Radicalism;References" %}
 
-## Histography
+## Historical Context
 
 Italian-American immigration history is full of rich and interconnected stories of struggle, adaptation, and creativity. An important part that keeps these stories alive is poetry. Italian-American labourers used poetry to express their experiences while facing a new life in America. This essay looks at how Italian-American immigrants shaped their lives with cultural and economic resilience through the poetic practices and works of Pascal D’Angelo, one of the most remembered voices in this tradition.
 
