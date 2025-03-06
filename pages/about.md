@@ -22,7 +22,7 @@ Pascal D’Angelo’s work fills a gap between immigrant labour history and lite
 By examining D’Angelo’s life and work in the broader historical context and through literary analysis, this website displays his story in American society. D’Angelo connects the history of labour with the scholarship of literature, revealing the resiliency, struggles, and aspirations of Italian-American workers and reshaping views of the immigrant experience in American culture.
  
 
-## METHODOLOGY
+## Methodology
 ### What's Been Done
 With archival research and online resources, this project aims to place D'Angelo's writings within the wider historical narrative of Italian-American literature, immigration, and labour of the early 20th century. Future plans are to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates.
 
