@@ -1,7 +1,7 @@
 ---
-title: Prose and Poetry
+title: Poetry and Prose
 layout: about
-permalink: /prose.html
+permalink: /poetry-prose.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="Works;Analysis;References" %}
 
-## Works
+## D'Angelo's Works
 
 Pascal D’Angelo, through his autobiography and 25 published poems, illustrates the immigrant experience of the early twentieth century with a captivating and unique narrative of hardship, aspiration, and art (Barone et al, 2021, p. 13). Reflecting immigrant labourers' struggles and the human spirit's resilience. By analyzing his writings from his short works published in newspapers and other media to the close examination of his 1924 autobiography, Son of Italy. Taken together they describe his transition from manual labourer to man of letters and provide a unique perspective on a larger narrative of immigration and settling in America.
 
