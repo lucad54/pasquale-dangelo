@@ -46,16 +46,16 @@ Overall, by connecting literary criticism to historical inquiry, this project wi
 The following are some of the links and resources that made this website possible:
 
 1. [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
-2. The Dreamlife of Pascal D'Angelo [https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html](https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html)
-3. Original Copy of Son of Italy [https://www.loc.gov/resource/gdcmassbookdig.pascaldangeloson00dang/?sp=1&st=list](https://www.loc.gov/resource/gdcmassbookdig.pascaldangeloson00dang/?sp=1&st=list)
-4. [Pascal D'Angelo gruppo Introdacqua](https://www.facebook.com/profile.php?id=100063595269956)
+2. [The Dreamlife of Pascal D'Angelo](https://forte-e-gentile.blogspot.com/2017/02/the-dreamlife-of-pascal-dangelo.html)
+3. [Osservatorio Diaspora Italiana e Italofona](https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/)
+4. [Original Copy of Son of Italy](https://www.loc.gov/resource/gdcmassbookdig.pascaldangeloson00dang/?sp=1&st=list)
+5. [Pascal D'Angelo gruppo Introdacqua](https://www.facebook.com/profile.php?id=100063595269956)
 
 ## Acknowledgments
 
 The creator would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-- [Osservatorio Diaspora Italiana e Italofona](https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/) 
 - The D'Angelo/Persutti Family
 - Pascal D'Angelo Groups (Introdacqua)
 - [Professor David Koffman](https://profiles.laps.yorku.ca/profiles/koffman/)
