@@ -36,6 +36,9 @@ The archival study has been important in rediscovering his work's reception, esp
 In order to expand this work done here, there is a plan and hopes to research further and work together with others. With hopes to work with historical societies, literary organizations, and archive centers based in New York and Introdacqua. Researchers and community organizations dedicated to Italian-American literature can help increase accessibility to unpublished text, documents, letters, and even oral histories missing from this exhibit. All allowing for a deeper understanding of D’Angelo’s life, his works, and his cultural contexts. 
 
 Some broader future research may include a more in-depth study on Italian-language and labour newspapers like “L'Adunata dei Refrattari”, which may shed light on how much revolutionary labour movements influenced D'Angelo and his associates. Also, focusing more on the period later in his life (and during his eventual death), the Great Depression and how even more significant economic and labour struggles impacted the lives and works of these immigrant-labour poets.
+
+{% include feature/image.html objectid="pascal10" %}
+
 Overall, by connecting literary criticism to historical inquiry, this project will reveal the role of poetry as a force of cultural and labour resistance within immigrant communities. With hopes to further revive interest in the voices of Italian-American workers whose creative labours have been silenced for so long by prevailing narratives.
 
 
@@ -52,6 +55,7 @@ The following are some of the links and resources that made this website possibl
 The creator would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
+- [Osservatorio Diaspora Italiana e Italofona](https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/) 
 - The D'Angelo/Persutti Family
 - Pascal D'Angelo Groups (Introdacqua)
 - [Professor David Koffman](https://profiles.laps.yorku.ca/profiles/koffman/)
