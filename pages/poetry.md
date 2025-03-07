@@ -98,5 +98,5 @@ Barone, Dennis, Siân Gibby, and Nicholas Grosso, eds. *VIA: Pascal D’Angelo*.
 
 D’Angelo, Pascal. *Son of Italy*. New York: Macmillan, 1924.
 
-[https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/](https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/)  
+Osservatorio Diaspora Italiana e Italofona. “‘il Dio Di New York’: Fontanella Regala Una Seconda Vita a Pascal D’Angelo.” stradedorate.org, November 20, 2022. https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/. 
 
