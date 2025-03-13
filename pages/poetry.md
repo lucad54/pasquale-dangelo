@@ -44,9 +44,8 @@ D’Angelo’s poetry appeared in major newspapers, like the afternoon daily new
 
 *Under the machinal flights of those moistened walls,*
 
-*Under those black, moistened walls of disregarded*
-
-* futility.*
+*Under those black, moistened walls of disregarded
+futility.*
 
 *Facing this Giant monument of bitterness –*
 
@@ -64,7 +63,7 @@ D’Angelo’s poetry appeared in major newspapers, like the afternoon daily new
 
 *On! On!”*
            
-            -	*The Literary Digest*, 1922
+            -           *The Literary Digest*, 1922
             
 The poem conveys the physical toll of the relentless work and the realization and humanization of broken dreams as immigrants became trapped in the labour structure of the time.
 
