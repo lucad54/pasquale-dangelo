@@ -116,9 +116,8 @@ From the poignant poetry to his wrenching autobiography, the works of Pascal D'A
 
 Barone, Dennis, Siân Gibby, and Nicholas Grosso, eds. *VIA: Pascal D’Angelo*. New York: Bordighera Press, 2021.
 
-*Newspapers mentioned (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest*...
-
 D’Angelo, Pascal. *Son of Italy*. New York: Macmillan, 1924.
 
 Osservatorio Diaspora Italiana e Italofona. “‘il Dio Di New York’: Fontanella Regala Una Seconda Vita a Pascal D’Angelo.” stradedorate.org, November 20, 2022. https://www.stradedorate.org/2021/05/24/il-dio-di-new-york-fontanella-regala-una-seconda-vita-a-pascal-dangelo/. 
 
+*Newspapers used (for short poems): The Literary Review, The Liberator, The Century The Brooklyn Eagle, Shadows, The Literary Digest*... 
