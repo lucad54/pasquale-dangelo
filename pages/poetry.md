@@ -63,7 +63,7 @@ futility.*
 
 *On! On!”*
 
-- *The Literary Digest*, 1922
+ - *The Literary Digest*, 1922
             
 The poem conveys the physical toll of the relentless work and the realization and humanization of broken dreams as immigrants became trapped in the labour structure of the time.
 
@@ -71,20 +71,33 @@ The poem conveys the physical toll of the relentless work and the realization an
 
 Of his most reflective poems, "Monte Majella" is typical of D'Angelo's work in its weaving together of personal memory and universal themes. 
 
-                                    “The mountain in a prayer of questioning heights
-                                     gazes upward at the dumb heavens,
-                                    And its inner anger is forever bursting forth
-                                    In twisting torrents.
-                                    Like little drops of dew trickling along the crevices
-                                    Of this giant questioner
-                                    I and my goats were returning toward the town
-                                                 below.
-                                    But my thoughts were of a little glen where wild
-                                    roses grow
-                                    And cool springs bubble up into blue pools.
-                                    And the mountain was insisting for an answer from
-                                                 the still heaven.”
-                                                             *The Literary Review*, 1922
+*“The mountain in a prayer of questioning heights*
+
+*gazes upward at the dumb heavens,*
+
+*And its inner anger is forever bursting forth*
+
+*In twisting torrents.*
+
+*Like little drops of dew trickling along the crevices*
+
+*Of this giant questioner*
+
+*I and my goats were returning toward the town*
+
+*below.*
+
+*But my thoughts were of a little glen where wild*
+
+*roses grow*
+
+*And cool springs bubble up into blue pools.*
+
+*And the mountain was insisting for an answer from*
+
+*the still heaven.”*
+
+ - *The Literary Review*, 1922
 
 It is a poem that depicts the immigrant longing for the lost beauty of his homeland, where cool springs bubbled up into blue pools. This imagery stands in contrast to the life he was living as an immigrant in America, depicting the immigrant’s dislocation and nostalgia for a lost way of life. By comparison, “The City” significantly denounces the dehumanization caused by the rise of the industrial world. D’Angelo writes about the “hecatombs of aching souls” and the “factory smoke” that engulfed the city, symbolizing the exploitation of workers' lives. 
 
