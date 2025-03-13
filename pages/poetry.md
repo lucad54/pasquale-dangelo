@@ -18,29 +18,52 @@ Pascal D’Angelo, through his autobiography and 25 published poems, illustrates
 
 D’Angelo’s poetry appeared in major newspapers, like the afternoon daily newspaper *Brooklyn Eagle*, and other prominent publications, placing him alongside notable poets like Edna St. Vincent Millay and Rudyard Kipling (Barone et al., 2021, p. 25). “Many of these poems were reprinted in newspapers across the country and in Canada, frequently shortened and with altered lineation” (Barone et al., 2021, p. 15). His poems exposed the hard, bitter realities of immigrant life through powerful imagery, allowing a feel of the depth of the labourer's trials and determination. An example of this is in his poem "The Toilers." 
 
-*“Brown faces of immatured senility
-Twisted into an ecstasy of unshaped satiation.
-Eyes that are huge, tumultuous flares of light
-Peering athwart the forced austerity of tiredness.
-Your hugely-muscled, stalwart arms
-That lift the mammoth weight of majestic industry,
-Branch up from your broad Herculean shoulders
-In a magnificence of thronged power.
-Reeling on the verge of eagerness
-You shift about –
-Throughout the night you are hurled
-In a confused heave of struggling illusions,
-Under the machinal flights of those moistened walls,
-Under those black, moistened walls of disregarded
- futility.
-Facing this Giant monument of bitterness –
-Your thoughts!
-Amid the incessant whirrs of the maniac motors,
-Are smashed into fragments of an irresolved dream,
-And you are swept on! On!
-By the involuntary rapids of meniality
-In the frenzied whirls of humiliation!
-On! On!”*
+*“Brown faces of immatured senility*
+
+*Twisted into an ecstasy of unshaped satiation.*
+
+*Eyes that are huge, tumultuous flares of light*
+
+*Peering athwart the forced austerity of tiredness.*
+
+*Your hugely-muscled, stalwart arms*
+
+*That lift the mammoth weight of majestic industry,*
+
+*Branch up from your broad Herculean shoulders*
+
+*In a magnificence of thronged power.*
+
+*Reeling on the verge of eagerness*
+
+*You shift about –*
+
+*Throughout the night you are hurled*
+
+*In a confused heave of struggling illusions,*
+
+*Under the machinal flights of those moistened walls,*
+
+*Under those black, moistened walls of disregarded*
+
+* futility.*
+
+*Facing this Giant monument of bitterness –*
+
+*Your thoughts!*
+
+*Amid the incessant whirrs of the maniac motors,*
+
+*Are smashed into fragments of an irresolved dream,*
+
+*And you are swept on! On!*
+
+*By the involuntary rapids of meniality*
+
+*In the frenzied whirls of humiliation!*
+
+*On! On!”*
+           
             -	*The Literary Digest*, 1922
             
 The poem conveys the physical toll of the relentless work and the realization and humanization of broken dreams as immigrants became trapped in the labour structure of the time.
@@ -49,19 +72,31 @@ The poem conveys the physical toll of the relentless work and the realization an
 
 Of his most reflective poems, "Monte Majella" is typical of D'Angelo's work in its weaving together of personal memory and universal themes. 
 
-*“The mountain in a prayer of questioning heights
- gazes upward at the dumb heavens,
-And its inner anger is forever bursting forth
-In twisting torrents.
-Like little drops of dew trickling along the crevices
-Of this giant questioner
-I and my goats were returning toward the town
- below.
-But my thoughts were of a little glen where wild
-roses grow
-And cool springs bubble up into blue pools.
-And the mountain was insisting for an answer from
- the still heaven.”*
+*“The mountain in a prayer of questioning heights*
+
+ *gazes upward at the dumb heavens,*
+
+*And its inner anger is forever bursting forth*
+
+*In twisting torrents.*
+
+*Like little drops of dew trickling along the crevices*
+
+*Of this giant questioner*
+
+*I and my goats were returning toward the town*
+
+ *below.*
+
+*But my thoughts were of a little glen where wild*
+
+*roses grow*
+
+*And cool springs bubble up into blue pools.*
+
+*And the mountain was insisting for an answer from*
+
+ *the still heaven.”*
                       -	*The Literary Review*, 1922
 
 It is a poem that depicts the immigrant longing for the lost beauty of his homeland, where cool springs bubbled up into blue pools. This imagery stands in contrast to the life he was living as an immigrant in America, depicting the immigrant’s dislocation and nostalgia for a lost way of life. By comparison, “The City” significantly denounces the dehumanization caused by the rise of the industrial world. D’Angelo writes about the “hecatombs of aching souls” and the “factory smoke” that engulfed the city, symbolizing the exploitation of workers' lives. 
