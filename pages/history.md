@@ -46,7 +46,8 @@ More specifically is the lasting cornerstone, Pascal D’Angelo, one of the “f
 *Or do I dream like the rose*
 
 *In my heart are echoes of young sighs”*
-              -	*The Brooklyn Eagle*, 1932
+            
+   -	*The Brooklyn Eagle*, 1932
 
 
 Yet the poetry of Italian-American labourers was more than the individual achievements, such as those of D’Angelo. It created and represented the voice of a group that shed light on the cultural and social challenges faced within Italian immigrant communities. As Ferdinando Alfonsi reveals in his *Dictionary of Italian-American Poets*, there are hundreds of these poets, each offering a different story, fighting for and writing on the American Dream (Alfonsi, 1989).
