@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-Life,/life.html,Pascal D'Angelo
-Poetry,/poetry-prose.html,Pascal D'Angelo
-History,/historical-context.html,Pascal D'Angelo
+Life,/life.html
+Poetry,/poetry-prose.html
+History,/historical-context.html
 Collections,,
 Media,/browse.html,Research
 Timeline,/timeline.html,Research
