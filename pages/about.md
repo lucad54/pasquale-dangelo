@@ -21,7 +21,7 @@ Pascal D’Angelo’s work fills a gap between immigrant labour history and lite
 
 This website exists to illuminate D’Angelo’s legacy and the broader significance of Italian-American labor poetry. As a distant relative of his and the son of an Italian-labour immigrant, I have long been fascinated by their lives and the stories of Southern Italian immigrants, whose resilience and cultural contributions are too often overlooked. Through historical research and literary analysis, this project seeks to contextualize D’Angelo’s work within the struggles of early 20th-century Italian immigrants and the larger history of labor activism. His writings challenge conventional narratives of immigrant assimilation, instead revealing the tension between cultural nostalgia and the harsh realities of American industrial labor. In doing so, they remind us that the immigrant experience was not simply one of hardship but also of agency, creativity, and resistance. Through this project, I aim to revive his voice and ensure that the struggles, aspirations, and literary achievements of Italian laborers like him are not forgotten.
 
-## Methodology
+
 ### What's Been Done
 With archival research and online resources, this project aims to place D'Angelo's writings within the wider historical narrative of Italian-American literature, immigration, and labour of the early 20th century. Future plans are to expand this research through stronger engagement with New York and Introdacqua literary and historical groups, going deeper into the collective story that D’Angelo illustrates.
 
