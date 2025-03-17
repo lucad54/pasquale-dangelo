@@ -112,7 +112,7 @@ When he landed in America, D'Angelo was culturally disoriented. Revealing that h
 
 The book’s most notable passages are those related to the life of D'Angelo as a physical labourer. He remembers both the physical and emotional burdens of this job, characterizing it as a "chrysalis of forced ignorance" from which he longed to escape (Son of Italy, 1924). Despite these hardships, his artistic hopes and poetry gave him meaning and the power to move forward, writing, “If I write a good line of poetry, my work is not lost. It can be read by you today and by another tomorrow” (Son of Italy, 1924, p. xiii). These words reveal the power of art, both for his life but also the lives of immigrant labourers whose stories he attempted to bring to light.
 
-## Literary Analysis
+## Literary Influences
 
 Pascal D'Angelo was an enthusiast of English romantic literature, through which he also discovered great classics of universal literature, such as Dante Alighieri's *Divine Comedy* (Barone et al., 2021). Writing with sharp imagery, lyrical language, and emotional depth, he focuses on the contrasts of the agrarian-rural beauty of Italy against the harshness of industrial America with dynamic tension through his work. This may be seen most clearly in works such as "Midday," where the serene childhood memories of Abruzzo are overrun by the oppressive heat and noise of the American workplace. 
 
