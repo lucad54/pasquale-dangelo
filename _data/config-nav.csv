@@ -4,10 +4,10 @@ Life,/life.html
 Poetry,/poetry-prose.html
 History,/historical-context.html
 Collections,,
-Media,/browse.html,Research
-Timeline,/timeline.html,Research
+Media,/browse.html,Collections
+Timeline,/timeline.html,Collections
 Resources,,
-Subjects,/subjects.html,Other
-Locations,/locations.html,Other
+Subjects,/subjects.html,Resources
+Locations,/locations.html,Resources
 Map,/map.html,Other
 About,/about.html
