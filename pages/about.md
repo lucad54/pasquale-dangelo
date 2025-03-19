@@ -62,9 +62,9 @@ The creator would like to acknowledge assistance and support from:
 ## Contact Information
 Luca D'Angelo 
 
-York University: Deparment of History and Education
+[York University: Deparment of History and Education](https://www.yorku.ca/laps/hist/)
 
-Email: lucad5@my.yorku.ca 
+Email: [lucad5@my.yorku.ca](lucad5@my.yorku.ca)
 
-Phone Number: 437-996-8963
+Phone Number: [437-996-8963](437-996-8963)
 
